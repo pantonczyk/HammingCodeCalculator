@@ -1,0 +1,2 @@
+# HammingCodeCalculator
+Hamming Code Calculator
