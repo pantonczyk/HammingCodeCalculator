@@ -1,0 +1,10 @@
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\bin\Debug\HammingCodeCalculator.exe.config
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\bin\Debug\HammingCodeCalculator.exe
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\bin\Debug\HammingCodeCalculator.pdb
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.Form1.resources
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.Properties.Resources.resources
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.exe
+C:\Users\pablo\Desktop\HammingCodeCalculator\HammingCodeCalculator\obj\Debug\HammingCodeCalculator.pdb
